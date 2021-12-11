@@ -1,0 +1,28 @@
+body{
+    background-color:#83c5be ;
+}
+
+/* Tool */
+#tool{
+    padding: 5%;
+    margin: 3%;
+    height: 80vh;
+}
+
+/* Testimonials  */
+.testimonial-text{
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-align: center;
+    padding: 5% 15%;
+}
+
+.testimonial-img-text{
+    text-align: center;
+}
+
+.testimonial-image{
+    width: 5rem;
+    border-radius: 100%;
+    margin: 20px;
+}

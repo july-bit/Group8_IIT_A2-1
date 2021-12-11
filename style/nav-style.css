@@ -1,0 +1,35 @@
+/* Header */
+#header{
+    width: 100%;
+    background: linear-gradient(180deg, #f7fbfc 70%, #83c5be 30%);
+    padding: 1%;
+}
+.header{
+    text-align: center;
+}
+.logo{
+    width: 8rem;
+}
+
+/* Navigation Bar */
+.container-fluid{
+    background-color:#feddd2;
+    border-radius: 25px;
+    text-align: center;
+}
+.navi-bar{
+    color: white;
+    margin: auto;
+}
+.navi-item{
+    background-color: #e19677;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+/* Delete COSC2083 when the screen is less than 1000px */
+@media screen and (max-width: 1000px) {
+    .title{
+        display: none;
+    }
+}

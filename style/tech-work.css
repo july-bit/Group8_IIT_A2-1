@@ -1,0 +1,64 @@
+body{
+    background-color:#83c5be ;
+    text-align: center;
+    line-height: 1.5;
+
+}
+#tech-work{
+    text-align: center;
+    padding: 3%;
+}
+.tech-work{
+    border-radius: 25px;
+    margin: 5rem auto;
+    width: 20rem;
+}
+/* IT tech */
+
+.techno-img{
+    border-radius: 25px;
+    width: 16rem;
+    height: 10rem;
+    margin: auto;
+    padding: 10px;
+}
+
+/* IT Work */
+.work-img{
+    border-radius: 25px;
+    width: 12rem;
+    height: 12rem;
+    margin: auto;
+    padding: 10px;
+}
+
+.prof-work{
+    margin: auto;
+    margin-bottom: 3rem;
+}
+
+.prof{
+    width: 30rem;
+    margin: auto;
+
+}
+
+/* elements of IT tech and IT work pages */
+#work-tech{
+    padding: 5% 10% 10%;
+    line-height: 1.5;
+    text-align: left;
+}
+#work-tech img{
+    width: 50%;
+}
+.video{
+    text-align: center;
+}
+/* button */
+.btn1{
+    float: left;
+}
+.btn2{
+    float: right;
+}

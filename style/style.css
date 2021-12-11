@@ -1,0 +1,66 @@
+body{
+    background-color: #83c5be;
+}
+
+/* Team profile */
+#team{
+    text-align: center;
+    padding: 3%;
+}
+
+.profile{
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 3rem;
+    width: 20rem;
+    height: 90rem;
+}
+
+.pro-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+.profile p{
+    text-align: left;
+}
+
+/* Team Profile and Ideal Jobs */
+#moreInfo{
+    padding: 3%;
+    text-align: center;
+}
+.job {
+    border-radius: 25px;
+    margin: 5rem auto;
+    width: 30rem;
+}
+.job img{
+    width: 20rem;
+    height: 20rem;
+}
+
+/* Team Profile and Ideal Jobs Pages */
+#ideal-job, #team-profile{
+    padding: 5% 10% 10%;
+    line-height: 1.5;
+    text-align: left;
+}
+#ideal-job img, #team-profile img{
+    width: 50%;
+}
+/* button */
+.btn1{
+    float: left;
+}
+.btn2{
+    float: right;
+}
+
+/* Project idea */
+#project-idea{
+    padding: 3%;
+}

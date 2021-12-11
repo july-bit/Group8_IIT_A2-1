@@ -1,0 +1,29 @@
+/* Feedback */
+body{
+    background-color: #83c5be;
+}
+#feedback{
+    padding: 5%;
+    height: 100vh;
+}
+.feedback-card{
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.left-side{
+    text-align: center;
+    padding: 5%;
+}
+
+#feedback .pro-img{
+    width: 80%;
+    border-radius: 20%;
+}
+
+/* Footer */
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color:#f7fbfc ;
+}
