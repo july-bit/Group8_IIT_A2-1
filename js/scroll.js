@@ -18,18 +18,8 @@ ScrollReveal().reveal('.description', {
     origin: 'bottom',
 });
 
-ScrollReveal().reveal('.tool-tech', { 
-    delay: 900,
-    origin: 'bottom',
-});
-
-ScrollReveal().reveal('.skill', { 
-    delay: 900,
-    origin: 'bottom',
-});
-
-ScrollReveal().reveal('.outcome', { 
-    delay: 900,
+ScrollReveal().reveal('.tool-tech, .skill, .outcome, .ref', { 
+    delay: 800,
     origin: 'bottom',
 });
 
